@@ -1,19 +1,13 @@
-# 🧠 Machine: SUID
+# SUID
 
-* Plataforma: Whoami Labs
-* Dificultad: Easy
-* Fecha: 2026
-
----
+- **Plataforma:** Whoami-Labs
+- **Dificultad:** facil
+- **Categoría:** Web
 
 ## 🔍 Reconocimiento
 
-## 🚪 Enumeración
+## 💥 Explotación
 
-## ⚡ Explotación
+## 🚩 Flags
 
-## 🔑 Escalada de privilegios
-
-## 🏁 Flags
-
-## 🧠 Lecciones aprendidas
+## 📚 Lecciones aprendidas
