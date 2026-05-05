@@ -1,27 +1,17 @@
-🛡️ CTF Writeups - JEc0d3r
 
-Repositorio donde documento máquinas resueltas en plataformas de ciberseguridad.
+# 🧠 CTF Writeups - JEc0d3r
 
-----------------------------------------------------
+Repositorio de resolución de máquinas y retos CTF como parte de mi portafolio en ciberseguridad.
 
-🎯 Objetivo.
+## 📊 Estadísticas
+| Plataforma   | Resueltas |
+|--------------|-----------|
+| Whoami-Labs  | 0         |
+| TryHackMe    | 0         |
+| HackTheBox   | 0         |
+| PicoCTF      | 0         |
 
-Mejorar habilidades en:
-
-* Enumeración
-* Explotación
-* Escalada de privilegios
-* Análisis de vulnerabilidades
-  
------------------------------------------------------
-
-📂 Plataformas.
-
-🔴 Whoami Labs
-
------------------------------------------------------
-
-⚠️ Nota.
-
-Este repositorio es solo con fines educativos.
-No se publican máquinas activas ni contenido que viole políticas de plataformas.
+## 🏆 Últimas máquinas resueltas
+| Máquina | Plataforma | Dificultad | Link |
+|---------|------------|------------|------|
+| ...     | ...        | ...        | ...  |
